@@ -11,9 +11,9 @@ The goal is to uncover insights that highlight market opportunities, pricing ano
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/Housing_Page1.png)
-![Dashboard Screenshot](images/Housing_Page2.png)
-![Dashboard Screenshot](images/Housing_Page3.png)
+![Dashboard Screenshot](Images/Dashboard_Page1.png)
+![Dashboard Screenshot](Images/Dashboard_Page2.png)
+![Dashboard Screenshot](Images/Dashboard_Page3.png)
 
 ---
 
