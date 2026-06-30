@@ -29,16 +29,6 @@ The goal is to uncover insights that highlight market opportunities, pricing ano
 
 ---
 
-## ❓ Key Questions (KPIs)
-- Which regions contribute the highest total sales?  
-- How have median sales prices changed across regions?  
-- What is the relationship between offer price and purchase price?  
-- How does YOY sales growth vary across different sales types?  
-- Which house types show the highest inflation, interest, and yield values?  
-- How do sqm and sqm_price vary across property categories?
-
----
-
 ## ⭐ Features
 - Clean & visually appealing multi-page dashboard  
 - Sales and pricing analysis by region, house type & sales type  
